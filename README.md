@@ -45,7 +45,7 @@ Provides visibility into projected demand, supply, and inventory positions at bo
 
 ## 🔹 Horizontal Plan Drill-In
 
-![Horizontal Plan Screenshot](HPlan.PNG)
+![Horizontal Plan Screenshot](HPlan2.PNG)
 
 **Purpose:**  
 Offers a detailed breakdown of the MRP at the part and site level for deep-dive analysis.
