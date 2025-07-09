@@ -13,8 +13,10 @@ Each report is purpose-built to address a specific need, from material planning 
 
 ## 🔹 Landing Page: Self-Service Hub
 
-![Landing Page Screenshot](Landing Page.png)
-![Pull Your Own Data tool](PYOD.png)
+![Landing Page Screenshot](LandingPage.PNG)
+
+
+![Pull Your Own Data tool](PYOD.PNG)
 **Purpose:**  
 Acts as a centralized access point for supply chain users.
 
@@ -26,13 +28,12 @@ Acts as a centralized access point for supply chain users.
   - Power BI navigation
   - Common FAQs and terms
   - Definitions used across reports
-![Example Training Material](Inventory $ Training.pdf) 
 
 
 ## 🔹 Material Requirements Planning (MRP)
 
-![MRP Screenshot-Weekly](MRP Weekly BO A Class.png)
-![MRP Screenshot-Monthly](MRP Monthly Expanded.png)
+![MRP Screenshot-Weekly](MRPWeekly.PNG)
+![MRP Screenshot-Monthly](MRPMonthly.PNG)
 
 **Purpose:**  
 Provides visibility into projected demand, supply, and inventory positions at both **weekly** and **monthly** levels.
@@ -44,7 +45,7 @@ Provides visibility into projected demand, supply, and inventory positions at bo
 
 ## 🔹 Horizontal Plan Drill-In
 
-![Horizontal Plan Screenshot](HPlan.png)
+![Horizontal Plan Screenshot](HPlan.PNG)
 
 **Purpose:**  
 Offers a detailed breakdown of the MRP at the part and site level for deep-dive analysis.
@@ -55,7 +56,7 @@ Offers a detailed breakdown of the MRP at the part and site level for deep-dive 
 
 - ## 🔹 Projected Inventory Health
 
-![Inventory Health Screenshot](Projected Inv.png)
+![Inventory Health Screenshot](ProjectedInv.PNG)
 
 **Purpose:**  
 Visualizes the health of projected inventory levels throughout the next 12 months.
@@ -67,7 +68,7 @@ Visualizes the health of projected inventory levels throughout the next 12 month
 
 - ## 🔹 PO Exception Messages
 
-![PO Exception Screenshot](Exception Messages.png)
+![PO Exception Screenshot](ExceptionMessages.png)
 
 **Purpose:**  
 Helps buyers manage and act on exception messages related to purchase orders.
